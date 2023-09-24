@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  bar:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-24T16:01:35.661095533Z"
+    description: A Helm chart for Kubernetes
+    digest: a32eebaedf86a33553957c0e2bf370ba7aa57ffb01bb7a040a2a68e5b815ba19
+    name: bar
+    type: application
+    urls:
+    - https://github.com/justrp/helmtest/releases/download/bar-0.1.0/bar-0.1.0.tgz
+    version: 0.1.0
+  foo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-24T16:01:35.786534082Z"
+    description: A Helm chart for Kubernetes
+    digest: 390cd5681ddee1b046fa240c79ac176b2a983b9a441a9040f3e995bc5eee7f97
+    name: foo
+    type: application
+    urls:
+    - https://github.com/justrp/helmtest/releases/download/foo-0.1.0/foo-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-24T16:01:35.786541183Z"
